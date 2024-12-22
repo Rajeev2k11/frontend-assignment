@@ -1,0 +1,17 @@
+.app-container {
+  font-family: Arial, sans-serif;
+  margin: 0 auto;
+  text-align: center;
+  width: 80%;
+}
+
+.error {
+  color: red;
+  margin: 20px;
+}
+
+.no-data {
+  color: gray;
+  margin: 20px;
+  font-size: 18px;
+}
